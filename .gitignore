@@ -6,6 +6,8 @@ config.json
 *.bmp
 *.gif
 *.webp
+*.txt
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
