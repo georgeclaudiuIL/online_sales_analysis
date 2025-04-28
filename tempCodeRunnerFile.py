@@ -1,0 +1,1 @@
+print(produse_random)
